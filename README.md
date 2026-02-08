@@ -13,7 +13,7 @@ Frontend Mentor challenges help improve front-end skills by building small, real
 
 ### Links
 
-- Solution URL: https://www.frontendmentor.io/solutions/qr-code-component-solution
+- Solution URL: https://www.frontendmentor.io/solutions/used-semantic-html-css-flexbox-responsive-sizing-and-devtools-yGKW1Dwv93
 - Live Site URL: https://wizkid0107.github.io/FEM-QR-code-component/
 
 ---
