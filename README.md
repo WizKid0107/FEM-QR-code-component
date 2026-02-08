@@ -14,7 +14,7 @@ Frontend Mentor challenges help improve front-end skills by building small, real
 ### Links
 
 - Solution URL: https://www.frontendmentor.io/solutions/qr-code-component-solution
-- Live Site URL: https://your-github-username.github.io/qr-code-component/
+- Live Site URL: https://wizkid0107.github.io/FEM-QR-code-component/
 
 ---
 
