@@ -23,7 +23,7 @@ body {
   gap: 3rem;
 }
 
-.container {
+.qr-card {
   width: 100%;
   max-width: 20rem;
   background-color: var(--White);
@@ -40,7 +40,7 @@ body {
   border-radius: 10px;
 }
 
-.text {
+.content {
   font-family: var(--font-main);
   display: flex;
   flex-direction: column;
@@ -66,4 +66,12 @@ p {
   text-decoration: none;
   font-weight: 700;
   font-size: 1rem;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+}
+.attribution a {
+  color: hsl(228, 45%, 44%);
 }
