@@ -9,6 +9,7 @@
   --Slate-300: hsl(212, 45%, 89%);
   --Slate-500: hsl(216, 15%, 48%);
   --Slate-900: hsl(218, 44%, 22%);
+  --Attribution: hsl(228, 45%, 44%);
   --font-main: "Outfit", sans-serif;
 }
 
@@ -62,16 +63,8 @@ p {
 }
 
 .attribution a {
-  color: var(--Slate-900);
+  color: var(--Attribution);
   text-decoration: none;
   font-weight: 700;
   font-size: 1rem;
-}
-
-.attribution {
-  font-size: 11px;
-  text-align: center;
-}
-.attribution a {
-  color: hsl(228, 45%, 44%);
 }
