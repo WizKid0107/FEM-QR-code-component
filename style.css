@@ -33,6 +33,7 @@ body {
   display: flex;
   flex-direction: column;
   gap: 1.5rem;
+  box-shadow: 0 25px 25px rgba(0, 0, 0, 0.05);
 }
 
 .qr-code {
@@ -50,16 +51,19 @@ body {
   gap: 1rem;
 }
 
-h1 {
+h2 {
   font-weight: 700;
   color: var(--Slate-900);
   font-size: 1.375rem;
+  line-height: 120%;
 }
 
 p {
   font-weight: 400;
   font-size: 0.938rem;
   color: var(--Slate-500);
+  letter-spacing: 0.013;
+  line-height: 140%;
 }
 
 .attribution a {
